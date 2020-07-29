@@ -1,1 +1,1 @@
-Dodanie zmiany w pliku a.txt
+Polaczony plik zmian w pliku a.txt
